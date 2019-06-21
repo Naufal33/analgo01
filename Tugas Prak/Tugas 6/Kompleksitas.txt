@@ -1,0 +1,9 @@
+1. Kompleksitas waktu BFS:
+	O(V+E)
+	V = Banyaknya node
+	E = Banyaknya lintasan
+
+2. Kompleksitas waktu DFS
+	O(V+E)
+	V = Banyaknya node
+	E = Banyaknya lintasan
